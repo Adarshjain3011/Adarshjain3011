@@ -14,8 +14,8 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Twitter Clone](https://github.com/Adarshjain3011/twitter-Clone)
-- 🌱 I’m currently learning **Next.js, TypeScript, Kubernetes, and AWS Auto Scaling Groups (ASG)**
+- 🔭 I’m currently working on Saas Project
+- 🌱 I’m currently learning ** Kubernetes, and AWS Auto Scaling Groups (ASG)**
 - 💬 Ask me about **React, Next.js, Full Stack Development, and DevOps**
 - 📫 How to reach me: **adarshjain3011@gmail.com**
 
